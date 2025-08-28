@@ -9,6 +9,6 @@ export interface DataTableProps<T> {
   data: T[];
   columns: Column<T>[];
   loading?: boolean;
-  selectable?: boolean;
+  selectable?: boolean | "single";
   onRowSelect?: (selectedRows: T[]) => void;
 }

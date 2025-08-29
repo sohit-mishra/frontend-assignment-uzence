@@ -56,8 +56,8 @@ A small React component library featuring **InputField** and **DataTable** compo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-ui-components.git
-cd react-ui-components
+git clone https://github.com/sohit-mishra/frontend-assignment-uzence.git
+cd frontend-assignment-uzence
 
 # Install dependencies
 npm install

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { InputFieldProps } from './InputField.types'; // <-- type-only import
+import type { InputFieldProps } from './InputField.types';
 import { AiOutlineEye, AiOutlineEyeInvisible, AiOutlineClose } from 'react-icons/ai';
 import clsx from 'clsx';
 
